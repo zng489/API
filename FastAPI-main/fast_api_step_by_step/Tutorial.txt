@@ -1,0 +1,30 @@
+
+http://localhost:8000/docs
+
+$ pip install fastapi
+
+$ pip install uvicorn
+
+https://medium.com/@vinicius_/como-criar-uma-api-rest-usando-python-com-fastapi-framework-1701849c0ce6
+
+https://www.youtube.com/watch?v=tpT48Rpt-Ww
+
+https://www.youtube.com/watch?v=XnYYwcOfcn8
+
+https://www.youtube.com/watch?v=wS9LfFtXdBs
+
+>> $ pip install fastapi
+>> $ pip install uvicorn
+>> uvicorn main:app --reload
+>> uvicorn folder.main:app --reload
+
+>> any_name = FastAPI()
+>> uvicorn main:any_name --reload
+>> uvicorn file_name:variable declared for FastAPI() --reload
+
+>> Swagger mode
+>> http://127.0.0.1:8000/docs
+
+
+>>
+>>
